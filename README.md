@@ -1,5 +1,5 @@
 # RemoveNodesFromXML
-This project contains a method that remove selected nodes from an XML file.
+This project contains a Java class with a method that remove selected nodes from an XML file.
 
 
 Description of how to populate variables:
